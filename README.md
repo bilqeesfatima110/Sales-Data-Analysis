@@ -31,25 +31,5 @@ This project analyzes sales data to identify sales trends, top-selling products,
 - Report: Sales_Report.pdf
 - Charts: outputs folder
 
-## Project Visualizations
-
-### Sales by Region
-![Sales by Region](outputs/sales_by_region.png)
-
-### Monthly Sales Trend
-![Monthly Sales](outputs/monthly_sales.png)
-
-### Top Products
-![Top Products](outputs/top_products.png)
-
-### Sales by Category
-![Sales by Category](outputs/category_sales.png)
-
-### Sales Distribution
-![Sales Distribution](outputs/sales_distribution.png)
-
-### Sales by Sub-Category
-![Sales by Sub-Category](outputs/subcategory_sales.png)
-
 ## Author
 Syeda Bilqees Fatima
